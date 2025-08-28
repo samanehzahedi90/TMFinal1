@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://samanehzahedi90.github.io/TMFinal1/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://ea36e7c1-0d1c-48ec-a3b3-b68815e3d5a4",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9e8f3481-4f9b-467e-a155-758609fbdef1",
+      "@type" : "sc:Canvas",
+      "label" : "Jungle",
+      "height" : 3719,
+      "width" : 2475,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://48c3de4a-c92c-4526-a8f1-7f951268e0a8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3719,
+          "width" : 2475
+        },
+        "on" : "http://9e8f3481-4f9b-467e-a155-758609fbdef1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f9718658-743d-4039-8aff-ee1810abc95b",
+      "@type" : "sc:Canvas",
+      "label" : "Beach",
+      "height" : 5876,
+      "width" : 3917,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://749ffd8f-71fd-49e8-8744-4d8591935154",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5876,
+          "width" : 3917
+        },
+        "on" : "http://f9718658-743d-4039-8aff-ee1810abc95b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b6ff4e54-357f-42d0-acc6-6f41bf1e3fdb",
+      "@type" : "sc:Canvas",
+      "label" : "Coffee",
+      "height" : 4672,
+      "width" : 7008,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ecb2c8bb-4457-4d70-a361-cbbeccf36f40",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/polina/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/polina",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4672,
+          "width" : 7008
+        },
+        "on" : "http://b6ff4e54-357f-42d0-acc6-6f41bf1e3fdb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://91fa7834-8d59-4298-9981-40027a794b7e",
+      "@type" : "sc:Canvas",
+      "label" : "Onion shells",
+      "height" : 9504,
+      "width" : 6336,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cd8ed2bf-b0bc-477c-885f-ef185c0bf371",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/Shells/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/Shells",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 9504,
+          "width" : 6336
+        },
+        "on" : "http://91fa7834-8d59-4298-9981-40027a794b7e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://afd20e15-3db4-4f50-a103-48f677ca6431",
+      "@type" : "sc:Canvas",
+      "label" : "Jelly Fish",
+      "height" : 5184,
+      "width" : 3888,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://469952f4-1675-419d-9cdf-3ed79f776f7c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/jelly/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/jelly",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5184,
+          "width" : 3888
+        },
+        "on" : "http://afd20e15-3db4-4f50-a103-48f677ca6431"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
