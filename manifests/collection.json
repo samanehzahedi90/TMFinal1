@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://samanehzahedi90.github.io/TMFinal1/manifests/manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://samanehzahedi90.github.io/TMFinal1/manifests/Manifest1",
+    "label" : "[Click to edit label]"
   } ]
 }
