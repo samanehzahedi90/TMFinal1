@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 198,
+    "height" : 297
+  }, {
+    "width" : 396,
+    "height" : 594
+  }, {
+    "width" : 792,
+    "height" : 1188
+  }, {
+    "width" : 1584,
+    "height" : 2376
+  }, {
+    "width" : 3168,
+    "height" : 4752
+  }, {
+    "width" : 6336,
+    "height" : 9504
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6336,
+  "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/Shells",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 9504
+}

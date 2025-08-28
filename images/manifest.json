@@ -7,5 +7,411 @@
             "All images loaded in samanehzahedi90/TMFinal1 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://samanehzahedi90.github.io/TMFinal1/images/jelly/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "jelly"
+                ]
+            },
+            "height": 5184,
+            "width": 3888,
+            "items": [
+                {
+                    "id": "https://samanehzahedi90.github.io/TMFinal1/images/jelly/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samanehzahedi90.github.io/TMFinal1/images/jelly/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samanehzahedi90.github.io/TMFinal1/images/jelly/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 122,
+                                                "height": 162
+                                            },
+                                            {
+                                                "width": 243,
+                                                "height": 324
+                                            },
+                                            {
+                                                "width": 486,
+                                                "height": 648
+                                            },
+                                            {
+                                                "width": 972,
+                                                "height": 1296
+                                            },
+                                            {
+                                                "width": 1944,
+                                                "height": 2592
+                                            },
+                                            {
+                                                "width": 3888,
+                                                "height": 5184
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3888,
+                                        "@id": "https://samanehzahedi90.github.io/TMFinal1/images/jelly",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5184,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samanehzahedi90.github.io/TMFinal1/images/jelly/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://samanehzahedi90.github.io/TMFinal1/images/Shells/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Shells"
+                ]
+            },
+            "height": 9504,
+            "width": 6336,
+            "items": [
+                {
+                    "id": "https://samanehzahedi90.github.io/TMFinal1/images/Shells/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samanehzahedi90.github.io/TMFinal1/images/Shells/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samanehzahedi90.github.io/TMFinal1/images/Shells/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 198,
+                                                "height": 297
+                                            },
+                                            {
+                                                "width": 396,
+                                                "height": 594
+                                            },
+                                            {
+                                                "width": 792,
+                                                "height": 1188
+                                            },
+                                            {
+                                                "width": 1584,
+                                                "height": 2376
+                                            },
+                                            {
+                                                "width": 3168,
+                                                "height": 4752
+                                            },
+                                            {
+                                                "width": 6336,
+                                                "height": 9504
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 6336,
+                                        "@id": "https://samanehzahedi90.github.io/TMFinal1/images/Shells",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 9504,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samanehzahedi90.github.io/TMFinal1/images/Shells/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://samanehzahedi90.github.io/TMFinal1/images/polina/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "polina"
+                ]
+            },
+            "height": 4672,
+            "width": 7008,
+            "items": [
+                {
+                    "id": "https://samanehzahedi90.github.io/TMFinal1/images/polina/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samanehzahedi90.github.io/TMFinal1/images/polina/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samanehzahedi90.github.io/TMFinal1/images/polina/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 219,
+                                                "height": 146
+                                            },
+                                            {
+                                                "width": 438,
+                                                "height": 292
+                                            },
+                                            {
+                                                "width": 876,
+                                                "height": 584
+                                            },
+                                            {
+                                                "width": 1752,
+                                                "height": 1168
+                                            },
+                                            {
+                                                "width": 3504,
+                                                "height": 2336
+                                            },
+                                            {
+                                                "width": 7008,
+                                                "height": 4672
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 7008,
+                                        "@id": "https://samanehzahedi90.github.io/TMFinal1/images/polina",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4672,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samanehzahedi90.github.io/TMFinal1/images/polina/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "paolo-bendandi"
+                ]
+            },
+            "height": 5876,
+            "width": 3917,
+            "items": [
+                {
+                    "id": "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 123,
+                                                "height": 184
+                                            },
+                                            {
+                                                "width": 245,
+                                                "height": 368
+                                            },
+                                            {
+                                                "width": 490,
+                                                "height": 735
+                                            },
+                                            {
+                                                "width": 980,
+                                                "height": 1469
+                                            },
+                                            {
+                                                "width": 1959,
+                                                "height": 2938
+                                            },
+                                            {
+                                                "width": 3917,
+                                                "height": 5876
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3917,
+                                        "@id": "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5876,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "spencer-plouzer"
+                ]
+            },
+            "height": 3719,
+            "width": 2475,
+            "items": [
+                {
+                    "id": "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 78,
+                                                "height": 117
+                                            },
+                                            {
+                                                "width": 155,
+                                                "height": 233
+                                            },
+                                            {
+                                                "width": 310,
+                                                "height": 465
+                                            },
+                                            {
+                                                "width": 619,
+                                                "height": 930
+                                            },
+                                            {
+                                                "width": 1238,
+                                                "height": 1860
+                                            },
+                                            {
+                                                "width": 2475,
+                                                "height": 3719
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2475,
+                                        "@id": "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3719,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 123,
+    "height" : 184
+  }, {
+    "width" : 245,
+    "height" : 368
+  }, {
+    "width" : 490,
+    "height" : 735
+  }, {
+    "width" : 980,
+    "height" : 1469
+  }, {
+    "width" : 1959,
+    "height" : 2938
+  }, {
+    "width" : 3917,
+    "height" : 5876
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3917,
+  "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/paolo-bendandi",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5876
+}

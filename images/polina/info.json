@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 219,
+    "height" : 146
+  }, {
+    "width" : 438,
+    "height" : 292
+  }, {
+    "width" : 876,
+    "height" : 584
+  }, {
+    "width" : 1752,
+    "height" : 1168
+  }, {
+    "width" : 3504,
+    "height" : 2336
+  }, {
+    "width" : 7008,
+    "height" : 4672
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7008,
+  "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/polina",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4672
+}

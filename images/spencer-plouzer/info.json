@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 78,
+    "height" : 117
+  }, {
+    "width" : 155,
+    "height" : 233
+  }, {
+    "width" : 310,
+    "height" : 465
+  }, {
+    "width" : 619,
+    "height" : 930
+  }, {
+    "width" : 1238,
+    "height" : 1860
+  }, {
+    "width" : 2475,
+    "height" : 3719
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2475,
+  "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/spencer-plouzer",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3719
+}

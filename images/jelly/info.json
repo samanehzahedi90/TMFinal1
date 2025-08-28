@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 122,
+    "height" : 162
+  }, {
+    "width" : 243,
+    "height" : 324
+  }, {
+    "width" : 486,
+    "height" : 648
+  }, {
+    "width" : 972,
+    "height" : 1296
+  }, {
+    "width" : 1944,
+    "height" : 2592
+  }, {
+    "width" : 3888,
+    "height" : 5184
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3888,
+  "@id" : "https://samanehzahedi90.github.io/TMFinal1/images/jelly",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5184
+}
